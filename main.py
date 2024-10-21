@@ -1,1 +1,4 @@
-print("Hello Uni-Potsdam Gitlab and Github")
+
+
+message = 'Hello World'
+print(message.find('l'))
